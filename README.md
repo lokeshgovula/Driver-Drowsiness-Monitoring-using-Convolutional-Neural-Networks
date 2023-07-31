@@ -48,6 +48,10 @@ The future works may focus on the utilization of outer factors such as vehicle s
 
 Monitoring the driver’s state of drowsiness and vigilance and providing feedback on their condition so that they can take appropriate action is one crucial step in a series of preventive measures necessary to address this problem.
 
+## Recorded Video How to run the code 
+
+[Video]("https://youtu.be/u1971BUqDlA")
+
 ## Author 
 
 Connect on [LinkedIN]("https://www.linkedin.com/in/lokeshgovula/")
