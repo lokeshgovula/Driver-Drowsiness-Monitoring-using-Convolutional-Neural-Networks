@@ -50,15 +50,15 @@ Monitoring the driver’s state of drowsiness and vigilance and providing feedba
 
 ## Recorded Video How to run the code 
 
-[Click here to watch]("https://youtu.be/u1971BUqDlA")
+[Click here to watch](https://youtu.be/u1971BUqDlA)
 
 ## Author 
 
-Connect on [LinkedIN]("https://www.linkedin.com/in/lokeshgovula/")
+Connect on [LinkedIN](https://www.linkedin.com/in/lokeshgovula/)
 
 ## License
 
-[Apache License 2.0]("LICENSE")
+[Apache License 2.0](LICENSE)
 
 
 
