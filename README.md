@@ -50,7 +50,7 @@ Monitoring the driver’s state of drowsiness and vigilance and providing feedba
 
 ## Recorded Video How to run the code 
 
-[Video]("https://youtu.be/u1971BUqDlA")
+[Click here to watch]("https://youtu.be/u1971BUqDlA")
 
 ## Author 
 
