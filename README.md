@@ -54,5 +54,5 @@ Connect on [LinkedIN]("https://www.linkedin.com/in/lokeshgovula/")
 
 ## License
 
-[Apache 2.0]("LICENSE")
+[Apache License 2.0]("LICENSE")
 
